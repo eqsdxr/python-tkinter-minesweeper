@@ -14,6 +14,6 @@ Contents:
 
 To Do:
 ----------
-X Have specific number of mines, rather than random
-X Highscore table
-X Adjustable grid and mine count via UI
+- [X] Have specific number of mines, rather than random
+- [X] Highscore table
+- [X] Adjustable grid and mine count via UI
